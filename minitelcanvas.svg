@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="250"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="minitelcanvas.svg"
+   inkscape:export-filename="/home/fred/Documents/Minitel/MinitelCanvas/minitelcanvas.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title4232">Minitel Canvas</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6654611"
+     inkscape:cx="154.98879"
+     inkscape:cy="120.28898"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1123"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="Main grid"
+       empspacing="320"
+       dotted="false"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="8px"
+       spacingy="10px"
+       color="#ffffff"
+       opacity="0.1254902"
+       empcolor="#ffffff"
+       empopacity="0.25098039" />
+    <inkscape:grid
+       type="xygrid"
+       id="Text grid"
+       empspacing="128"
+       dotted="false"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="8px"
+       spacingy="10px"
+       color="#ffff00"
+       opacity="0.1254902"
+       empcolor="#ffff00"
+       empopacity="0.25098039"
+       originy="2px"
+       originx="0px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Minitel Canvas</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Frédéric BISSON</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Frédéric BISSON</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>minitel</rdf:li>
+            <rdf:li>videotex</rdf:li>
+            <rdf:li>canvas</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Minitel Canvas is an Inkscape SVG file for making Minitel pages under a vectorial editor. It needs the accompagnying Minitel fonts in order to work.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Screen"
+     sodipodi:insensitive="true">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:27.39999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2987"
+       width="320"
+       height="250"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-802.36218)"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Foreground"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Demo background">
+    <rect
+       style="color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:27.39999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3786"
+       width="320"
+       height="10"
+       x="0"
+       y="190" />
+    <rect
+       style="color:#000000;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:27.39999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3789"
+       width="320"
+       height="20"
+       x="0"
+       y="10" />
+    <rect
+       y="160"
+       x="0"
+       height="10"
+       width="320"
+       id="rect4186"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:27.39999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:27.39999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4214"
+       width="320"
+       height="10"
+       x="0"
+       y="130" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Demo foreground">
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       x="0"
+       y="48"
+       id="text3760"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3762"
+         x="0"
+         y="48">An Inkscape SVG file for making Minitel</tspan><tspan
+         sodipodi:role="line"
+         x="0"
+         y="58"
+         id="tspan2999">pages under a vectorial editor.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3764"
+       y="173.94829"
+       x="56.568611"
+       style="font-size:11.31370831px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       xml:space="preserve"
+       transform="scale(0.70710677,1.4142136)"><tspan
+         y="173.94829"
+         x="56.568611"
+         id="tspan3766"
+         sodipodi:role="line">W:1, H:2</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3772"
+       y="26"
+       x="48"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       xml:space="preserve"><tspan
+         y="26"
+         x="48"
+         id="tspan3774"
+         sodipodi:role="line"
+         style="font-size:16px">Minitel Canvas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65685415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       x="107.48021"
+       y="322.44077"
+       id="text3780"
+       sodipodi:linespacing="125%"
+       transform="scale(1.4142136,0.70710677)"><tspan
+         style="font-size:11.31370831px"
+         sodipodi:role="line"
+         id="tspan3782"
+         x="107.48021"
+         y="322.44077">W:2, H:1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       x="152"
+       y="246"
+       id="text3001"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:16px"
+         sodipodi:role="line"
+         id="tspan3003"
+         x="152"
+         y="246">W:2, H:2</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3005"
+       y="228"
+       x="40"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       xml:space="preserve"><tspan
+         id="tspan3009"
+         y="228"
+         x="40"
+         sodipodi:role="line">W:1, H:2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       x="160"
+       y="198"
+       id="text3013"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="160"
+         y="198"
+         id="tspan3015">Available font sizes</tspan></text>
+    <rect
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3771"
+       width="16"
+       height="20"
+       x="8"
+       y="80" />
+    <rect
+       style="color:#000000;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3791"
+       width="16"
+       height="20"
+       x="24"
+       y="80" />
+    <rect
+       style="color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3793"
+       width="16"
+       height="20"
+       x="40"
+       y="80" />
+    <rect
+       style="color:#000000;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3795"
+       width="16"
+       height="20"
+       x="8"
+       y="100" />
+    <rect
+       style="color:#000000;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3797"
+       width="16"
+       height="20"
+       x="24"
+       y="100" />
+    <rect
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3799"
+       width="16"
+       height="20"
+       x="40"
+       y="100" />
+    <rect
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3771-3"
+       width="16"
+       height="20"
+       x="88"
+       y="80" />
+    <rect
+       style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3791-3"
+       width="16"
+       height="20"
+       x="72"
+       y="100" />
+    <rect
+       style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3793-1"
+       width="16"
+       height="20"
+       x="104"
+       y="100" />
+    <rect
+       style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3795-5"
+       width="16"
+       height="20"
+       x="72"
+       y="80" />
+    <rect
+       style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3797-6"
+       width="16"
+       height="20"
+       x="104"
+       y="80" />
+    <rect
+       style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3799-9"
+       width="16"
+       height="20"
+       x="88"
+       y="100" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4146"
+       y="78"
+       x="8"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       xml:space="preserve"><tspan
+         id="tspan4150"
+         y="78"
+         x="8"
+         sodipodi:role="line">Colors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       x="80"
+       y="78"
+       id="text4154"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="80"
+         y="78"
+         id="tspan4156">Grey</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       x="0"
+       y="208"
+       id="text3760-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="208"
+         id="tspan2999-3">Copy/paste from theses samples to have</tspan><tspan
+         sodipodi:role="line"
+         x="0"
+         y="218"
+         id="tspan4184">the right sizes!</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4188"
+       y="168"
+       x="288"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       xml:space="preserve"><tspan
+         id="tspan4190"
+         y="168"
+         x="288"
+         sodipodi:role="line">Note</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4192"
+       y="178"
+       x="0"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       xml:space="preserve"><tspan
+         id="tspan4196"
+         y="178"
+         x="0"
+         sodipodi:role="line">Use Inkscape to export PNG, it will help</tspan><tspan
+         y="188"
+         x="0"
+         sodipodi:role="line"
+         id="tspan4200">having pixel-perfect image</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4202"
+       y="88"
+       x="128"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       xml:space="preserve"><tspan
+         id="tspan4206"
+         y="88"
+         x="128"
+         sodipodi:role="line">Use either colors or</tspan><tspan
+         y="98"
+         x="128"
+         sodipodi:role="line"
+         id="tspan4210">grey, Minitel can't do</tspan><tspan
+         y="108"
+         x="128"
+         sodipodi:role="line"
+         id="tspan4212">both at the same time.</tspan><tspan
+         y="118"
+         x="128"
+         sodipodi:role="line"
+         id="tspan4230">Black&amp;White are common.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       x="288"
+       y="138"
+       id="text4216"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="288"
+         y="138"
+         id="tspan4218">Note</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Minitel;-inkscape-font-specification:Minitel"
+       x="0"
+       y="148"
+       id="text4220"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4224"
+         sodipodi:role="line"
+         x="0"
+         y="148">Yellow grid: text base line</tspan><tspan
+         sodipodi:role="line"
+         x="0"
+         y="158"
+         id="tspan4228">White grid: Minitel grid</tspan></text>
+  </g>
+</svg>
